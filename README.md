@@ -6,9 +6,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/manojsai7/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/manojsai7/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/manojsai7/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/manojsai7/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+## Sorting
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/manojsai7/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/manojsai7/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
