@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manojsai7/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/manojsai7/LeetCode/tree/master/0011-container-with-most-water) |
 | [0162-find-peak-element](https://github.com/manojsai7/LeetCode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manojsai7/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/manojsai7/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/manojsai7/LeetCode/tree/master/0011-container-with-most-water) |
 | [1833-maximum-ice-cream-bars](https://github.com/manojsai7/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Sorting
 |  |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/manojsai7/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/manojsai7/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
