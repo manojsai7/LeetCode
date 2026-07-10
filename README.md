@@ -145,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/manojsai7/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/manojsai7/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
