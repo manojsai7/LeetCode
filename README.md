@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/manojsai7/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1833-maximum-ice-cream-bars](https://github.com/manojsai7/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/manojsai7/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/manojsai7/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/manojsai7/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/manojsai7/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/manojsai7/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/manojsai7/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1288-remove-covered-intervals](https://github.com/manojsai7/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/manojsai7/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/manojsai7/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/manojsai7/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting Sort
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/manojsai7/LeetCode/tree/master/0162-find-peak-element) |
 | [1004-max-consecutive-ones-iii](https://github.com/manojsai7/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/manojsai7/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/manojsai7/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/manojsai7/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/manojsai7/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/manojsai7/LeetCode/tree/master/3620-network-recovery-pathways) |
