@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/manojsai7/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1632-rank-transform-of-a-matrix](https://github.com/manojsai7/LeetCode/tree/master/1632-rank-transform-of-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/manojsai7/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/manojsai7/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/manojsai7/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/manojsai7/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manojsai7/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
