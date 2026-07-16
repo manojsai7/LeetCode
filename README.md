@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manojsai7/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/manojsai7/LeetCode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/manojsai7/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0162-find-peak-element](https://github.com/manojsai7/LeetCode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manojsai7/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/manojsai7/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/manojsai7/LeetCode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/manojsai7/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/manojsai7/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/manojsai7/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
