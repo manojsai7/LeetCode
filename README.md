@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/manojsai7/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manojsai7/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/manojsai7/LeetCode/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/manojsai7/LeetCode/tree/master/0053-maximum-subarray) |
 | [0162-find-peak-element](https://github.com/manojsai7/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/manojsai7/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manojsai7/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manojsai7/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/manojsai7/LeetCode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manojsai7/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/manojsai7/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/manojsai7/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/manojsai7/LeetCode/tree/master/0070-climbing-stairs) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/manojsai7/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/manojsai7/LeetCode/tree/master/3620-network-recovery-pathways) |
