@@ -9,3 +9,12 @@ class Solution:
                 return i
             lsum+=nums[i]
         return -1
+"""
+        total=sum(nums)
+        left=0
+        for i,num in enumerate(nums):
+            if left==total-left-num:
+                return i
+            left+=num
+        return -1       
+"""
