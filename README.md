@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/manojsai7/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/manojsai7/LeetCode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/manojsai7/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0392-is-subsequence](https://github.com/manojsai7/LeetCode/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/manojsai7/LeetCode/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/manojsai7/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/manojsai7/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/manojsai7/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/manojsai7/LeetCode/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/manojsai7/LeetCode/tree/master/0392-is-subsequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/manojsai7/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/manojsai7/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/manojsai7/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/manojsai7/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/manojsai7/LeetCode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/manojsai7/LeetCode/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/manojsai7/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/manojsai7/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/manojsai7/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
