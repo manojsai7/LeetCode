@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/manojsai7/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/manojsai7/LeetCode/tree/master/0053-maximum-subarray) |
 | [0162-find-peak-element](https://github.com/manojsai7/LeetCode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/manojsai7/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/manojsai7/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manojsai7/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/manojsai7/LeetCode/tree/master/0283-move-zeroes) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manojsai7/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/manojsai7/LeetCode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/manojsai7/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1004-max-consecutive-ones-iii](https://github.com/manojsai7/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/manojsai7/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manojsai7/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manojsai7/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manojsai7/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/manojsai7/LeetCode/tree/master/0031-next-permutation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/manojsai7/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/manojsai7/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/manojsai7/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/manojsai7/LeetCode/tree/master/0283-move-zeroes) |
