@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/manojsai7/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/manojsai7/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/manojsai7/LeetCode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/manojsai7/LeetCode/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/manojsai7/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manojsai7/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/manojsai7/LeetCode/tree/master/0189-rotate-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/manojsai7/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/manojsai7/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/manojsai7/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/manojsai7/LeetCode/tree/master/0202-happy-number) |
