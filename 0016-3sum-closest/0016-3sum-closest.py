@@ -5,8 +5,8 @@ class Solution:
         n=len(nums)
         # r=n-1
         for i in range(n-2):
-            if i > 0 and nums[i] == nums[i-1]:
-                continue
+            # if i > 0 and nums[i] == nums[i-1]:
+            #     continue
             l=i+1
             r=n-1
             while l<r:
