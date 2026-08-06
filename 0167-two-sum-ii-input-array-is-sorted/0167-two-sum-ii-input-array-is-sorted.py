@@ -4,17 +4,13 @@ class Solution:
         j=len(numbers)-1
         while i<j:
             curSum=numbers[i]+numbers[j]
-            if curSum==target:
-                return [i+1,j+1]
-            elif curSum<target:
+
+            if curSum<target:
                 i+=1
-            else:
+            elif curSum>target:
                 j-=1
-
-            # while j< len(numbers):
-
-
-
+            else:
+                return [i+1,j+1]
         return [x,y]
 
         
