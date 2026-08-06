@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/manojsai7/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/manojsai7/LeetCode/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/manojsai7/LeetCode/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/manojsai7/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manojsai7/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/manojsai7/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manojsai7/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/manojsai7/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/manojsai7/LeetCode/tree/master/0016-3sum-closest) |
+| [0164-maximum-gap](https://github.com/manojsai7/LeetCode/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manojsai7/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/manojsai7/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/manojsai7/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -375,4 +377,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/manojsai7/LeetCode/tree/master/0155-min-stack) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/manojsai7/LeetCode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/manojsai7/LeetCode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/manojsai7/LeetCode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
