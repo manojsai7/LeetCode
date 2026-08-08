@@ -1,23 +1,23 @@
-# Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
+import heapq
+
 class Solution:
-    def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
-        dummy=ListNode(0)
-        tail=dummy
-        while True:
-            min_idx=-1
-            for i in range(len(lists)):
-                if lists[i]:
-                    if min_idx==-1 or lists[i].val<lists [min_idx].val:
+    def mergeKLists(self, lists):
+        dummy = ListNode(0)
+        tail = dummy
 
-                        min_idx=i
-            if min_idx==-1:
-                break
-            tail.next=lists[min_idx]
-            tail=tail.next
-            lists[min_idx]=lists[min_idx].next
+        heap = []
+
+        for i in range(len(lists)):
+            if lists[i]:
+                heapq.heappush(heap, (lists[i].val, i, lists[i]))
+
+        while heap:
+            val, i, node = heapq.heappop(heap)
+
+            tail.next = node
+            tail = tail.next
+
+            if node.next:
+                heapq.heappush(heap, (node.next.val, i, node.next))
+
         return dummy.next
-
