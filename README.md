@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/manojsai7/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/manojsai7/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1632-rank-transform-of-a-matrix](https://github.com/manojsai7/LeetCode/tree/master/1632-rank-transform-of-a-matrix) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/manojsai7/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/manojsai7/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/manojsai7/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/manojsai7/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/manojsai7/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/manojsai7/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1632-rank-transform-of-a-matrix](https://github.com/manojsai7/LeetCode/tree/master/1632-rank-transform-of-a-matrix) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/manojsai7/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/manojsai7/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manojsai7/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manojsai7/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/manojsai7/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/manojsai7/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/manojsai7/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/manojsai7/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/manojsai7/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manojsai7/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/manojsai7/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
