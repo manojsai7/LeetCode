@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/manojsai7/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/manojsai7/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manojsai7/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/manojsai7/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manojsai7/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/manojsai7/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manojsai7/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/manojsai7/LeetCode/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/manojsai7/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/manojsai7/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/manojsai7/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/manojsai7/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/manojsai7/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/manojsai7/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1632-rank-transform-of-a-matrix](https://github.com/manojsai7/LeetCode/tree/master/1632-rank-transform-of-a-matrix) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/manojsai7/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/manojsai7/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/manojsai7/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manojsai7/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manojsai7/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/manojsai7/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -154,17 +157,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/manojsai7/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/manojsai7/LeetCode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manojsai7/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/manojsai7/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/manojsai7/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/manojsai7/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manojsai7/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/manojsai7/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3620-network-recovery-pathways](https://github.com/manojsai7/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/manojsai7/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/manojsai7/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Sliding Window
 |  |
 | ------- |
