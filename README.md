@@ -379,11 +379,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/manojsai7/LeetCode/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/manojsai7/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0901-online-stock-span](https://github.com/manojsai7/LeetCode/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/manojsai7/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/manojsai7/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0901-online-stock-span](https://github.com/manojsai7/LeetCode/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/manojsai7/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Trie
 |  |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/manojsai7/LeetCode/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/manojsai7/LeetCode/tree/master/0901-online-stock-span) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -466,4 +469,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/manojsai7/LeetCode/tree/master/1051-height-checker) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/manojsai7/LeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
