@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/manojsai7/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/manojsai7/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manojsai7/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/manojsai7/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/manojsai7/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/manojsai7/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/manojsai7/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/manojsai7/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/manojsai7/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/manojsai7/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/manojsai7/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/manojsai7/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
