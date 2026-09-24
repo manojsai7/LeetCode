@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/manojsai7/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/manojsai7/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/manojsai7/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/manojsai7/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/manojsai7/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1386-cinema-seat-allocation](https://github.com/manojsai7/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/manojsai7/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/manojsai7/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/manojsai7/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/manojsai7/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/manojsai7/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/manojsai7/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/manojsai7/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/manojsai7/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/manojsai7/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/manojsai7/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/manojsai7/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/manojsai7/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/manojsai7/LeetCode/tree/master/0392-is-subsequence) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/manojsai7/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/manojsai7/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/manojsai7/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/manojsai7/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -527,14 +531,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/manojsai7/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/manojsai7/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/manojsai7/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/manojsai7/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/manojsai7/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/manojsai7/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/manojsai7/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/manojsai7/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
