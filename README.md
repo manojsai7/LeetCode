@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/manojsai7/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/manojsai7/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/manojsai7/LeetCode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/manojsai7/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manojsai7/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manojsai7/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/manojsai7/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/manojsai7/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/manojsai7/LeetCode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/manojsai7/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manojsai7/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/manojsai7/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/manojsai7/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/manojsai7/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/manojsai7/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/manojsai7/LeetCode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/manojsai7/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manojsai7/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manojsai7/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/manojsai7/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/manojsai7/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/manojsai7/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/manojsai7/LeetCode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/manojsai7/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/manojsai7/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manojsai7/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/manojsai7/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
