@@ -11,7 +11,8 @@ class Solution:
         if not p or not q:
             return False
         return(
-            p.val==q.val and
-            self.isSameTree(p.left,q.left) and
+            if p.val==q.val and
+            self.isSameTree(p.left,q.left)
             self.isSameTree(p.right,q.right)
         )
+        
